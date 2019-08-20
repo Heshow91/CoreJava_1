@@ -2,7 +2,7 @@ package javaPractice;
 
 public class Loops {
     // loops is duplicating the work
-
+    // in order to execute a set of functions or discussions, condition statements to come to truth
     // for( -- loop condition starts
 
     // for ( dataType variable = where to start; where to finish ; Increment/Decrement)
@@ -20,17 +20,18 @@ public class Loops {
             System.out.println("Selenium");
             for(int z = 0; z < 2; z++){
                 System.out.println("Java");
+
             }
 
         }
 
-        // while loop
+        // while loop testing for true or false, run the statement if its true exit if false
         int x = 0;
         while (x < 5){
             System.out.println(x+ "Java Books");
             x++;
         }
-        // do while loop
+        // do while loop test condition after we execute the loop
         int s = 0;
         do{
             System.out.println("I love Java");

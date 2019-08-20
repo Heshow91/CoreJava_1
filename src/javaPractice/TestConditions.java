@@ -16,7 +16,7 @@ public class TestConditions {
             System.out.println("x is less than 10");
         }
         System.out.println("*****************");
-        // is else block
+        // if else block
         int a = 4;
         if (a > 3) {
             System.out.println("a is greater than 3");
@@ -50,7 +50,7 @@ public class TestConditions {
             System.out.println("we lost");
         } else if (s != 12) {
             // if s is not equal to 12
-            System.out.println(" nothing");
+            System.out.println("nothing");
         }
     }
 }
