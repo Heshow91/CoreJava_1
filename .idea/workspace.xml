@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="710e7ba5-b316-4a8f-a9d3-f88596705ce3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/testng_6_14_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assertion/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assertion/TestAssertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assertion/TestCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/TestMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/TestReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructures/ArrayListPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructures/ArrayPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructures/LinkedListPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructures/array/RandomNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructures/array/ScannerArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructures/arrayList/ArrayListPractice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataStructures/arrayList/ArrayListPractice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumPractice/ExecuteDayz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaPractice/ExceptionHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaPractice/ExecutionClassForSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaPractice/TestClassForSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/library/testng-6.14.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sorting/Swap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/CharArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string/StringIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utility/DataReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utility/TestScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CoreJava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJava/javaPractice/ArrayPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJava/javaPractice/ArrayPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CoreJava/javaPractice/CoreLabs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaPractice/ArrayPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaPractice/ArrayPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaPractice/CoreLabs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaPractice/DataTypes.java" afterDir="false" />
-    </list>
+    <list default="true" id="710e7ba5-b316-4a8f-a9d3-f88596705ce3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
