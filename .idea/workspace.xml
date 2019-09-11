@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="710e7ba5-b316-4a8f-a9d3-f88596705ce3" name="Default Changelist" comment="" />
+    <list default="true" id="710e7ba5-b316-4a8f-a9d3-f88596705ce3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/dataStructures/arrayList/uniqueValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dataStructures/arrayList/uniqueValue2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/ReversedString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJava/assertion/TestAssertion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJava/assertion/TestAssertion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CoreJava/dataStructures/array/RandomNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CoreJava/dataStructures/array/RandomNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dataStructures/array/RandomNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dataStructures/array/RandomNumbers.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,39 +52,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestAssertion">
-    <configuration name="DataReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="utility.DataReader" />
+  <component name="RunManager" selected="Application.uniqueValue">
+    <configuration name="RandomNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructures.array.RandomNumbers" />
       <module name="CoreJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="utility.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sorting.InsertionSort" />
-      <module name="CoreJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Split" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.Split" />
-      <module name="CoreJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="dataStructures.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,13 +92,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="uniqueValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructures.arrayList.uniqueValue" />
+      <module name="CoreJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataStructures.arrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uniqueValue2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dataStructures.arrayList.uniqueValue2" />
+      <module name="CoreJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dataStructures.arrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestAssertion" />
+        <item itemvalue="Application.uniqueValue" />
+        <item itemvalue="Application.uniqueValue2" />
+        <item itemvalue="Application.RandomNumbers" />
         <item itemvalue="Application.TestCalculator" />
-        <item itemvalue="Application.InsertionSort" />
-        <item itemvalue="Application.DataReader" />
-        <item itemvalue="Application.Split" />
+        <item itemvalue="Application.TestAssertion" />
       </list>
     </recent_temporary>
   </component>

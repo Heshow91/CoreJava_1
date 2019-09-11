@@ -3,12 +3,14 @@ package dataStructures.array;
 import java.util.ArrayList;
 import java.util.Random;
 
-public class RandomNumbers {
+public class  RandomNumbers {
     public static void main(String[] args) {
 
         int [] studentId = new int[5];
             //studentId[0]=10;
             //studentId[1]=1232;
+
+        // random generates a random number every time it runs
 
         Random random = new Random();
         for(int i=0;i<5;i++) {
